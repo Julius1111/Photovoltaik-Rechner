@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Photovoltaik-Rechner/static/css/main.fb2a4d2b.css",
+    "main.js": "/Photovoltaik-Rechner/static/js/main.ec14affa.js",
+    "static/js/453.d05aa82c.chunk.js": "/Photovoltaik-Rechner/static/js/453.d05aa82c.chunk.js",
+    "index.html": "/Photovoltaik-Rechner/index.html",
+    "main.fb2a4d2b.css.map": "/Photovoltaik-Rechner/static/css/main.fb2a4d2b.css.map",
+    "main.ec14affa.js.map": "/Photovoltaik-Rechner/static/js/main.ec14affa.js.map",
+    "453.d05aa82c.chunk.js.map": "/Photovoltaik-Rechner/static/js/453.d05aa82c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb2a4d2b.css",
+    "static/js/main.ec14affa.js"
+  ]
+}
